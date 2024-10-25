@@ -10,7 +10,7 @@
 .wrapper{
     background-color: #d3d0d0;
     padding: 10px;
-    height: 700px;
+    min-height: 100%;
     position: relative;
     color: #f8f6f6;
     font-size: 20px;
