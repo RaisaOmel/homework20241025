@@ -11,9 +11,7 @@
     background-color: #d3d0d0;
     padding: 10px;
     min-height: 100%;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
+    height: 1200px;/*100vh; */
     color: #f8f6f6;
     font-size: 20px;
     text-align: left;
@@ -77,8 +75,7 @@ h2{
 .footer{
     display: inline-block;
     height: 20%;
-    min-width: 100%;
-    position: sticky;
+    position: fixed;
     padding: 10px;
     bottom: 0px;
     left: 10px;
