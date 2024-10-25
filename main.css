@@ -11,7 +11,8 @@
     background-color: #d3d0d0;
     padding: 10px;
     min-height: 100%;
-    position: relative;
+    display: flex;
+    flex-direction: column;
     color: #f8f6f6;
     font-size: 20px;
     text-align: left;
