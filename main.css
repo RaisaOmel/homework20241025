@@ -75,9 +75,9 @@ h2{
 .footer{
     display: inline-block;
     height: 20%;
-    position: absolute;
+    position: sticky;
     padding: 10px;
-    bottom: 10px;
+    bottom: 0px;
     left: 10px;
     right: 10px;
     background-color: #706a6a;
